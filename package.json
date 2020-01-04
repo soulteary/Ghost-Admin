@@ -11,7 +11,6 @@
   "bugs": "https://github.com/TryGhost/Ghost/issues",
   "contributors": "https://github.com/TryGhost/Ghost-Admin/graphs/contributors",
   "license": "MIT",
-  "private": false,
   "directories": {
     "test": "tests"
   },
